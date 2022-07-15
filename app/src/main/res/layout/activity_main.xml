@@ -89,7 +89,8 @@
         app:layout_constraintHorizontal_bias="0.784"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/dota_2_is_a_multiplayer_online_battle_arena__moba__game_which_has_two_teams_of_five_players_compete_to_collectively_destroy_a_large_structure_defended_by_the_opposing_team_known_as_the__ancient___whilst_defending_t" />
+        app:srcCompat="@drawable/dota_2_is_a_multiplayer_online_battle_arena__moba__game_which_has_two_teams_of_five_players_compete_to_collectively_destroy_a_large_structure_defended_by_the_opposing_team_known_as_the__ancient___whilst_defending_t"
+        tools:srcCompat="@drawable/dota2_text" />
 
     <ImageView
         android:id="@+id/imageView8"
